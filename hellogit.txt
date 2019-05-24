@@ -6,3 +6,7 @@ checking second commit.
 //change 1 in main
 fix for bug456
 testcommit for idea branch
+
+function displayDate(){
+  alert('display date in MM-DD-YYYY');
+}
